@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Scapin.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Django.
 - 📫 How to reach me: luis.scapin@outlook.com
 
 <!---
